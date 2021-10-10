@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+This is the web app for the `todo` system that I'm writing as a way of learning how modern apps hang together.  It is of no practical use as an app, and could be in almost any state of brokenness - not committing to keeping it updated!
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
